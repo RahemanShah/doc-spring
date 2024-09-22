@@ -14,8 +14,6 @@ import in.nit.service.StudentService;
 public class StudentController 
 {
 	
-	
-	
 	@Autowired
 	private StudentService studentService;
 	                          
